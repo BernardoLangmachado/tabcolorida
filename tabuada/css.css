@@ -1,0 +1,152 @@
+body {
+ background-color: rgb(223, 213, 151); 
+}
+.conteiner{
+    display: flex;
+    flex-direction: row;
+}
+.primeiratabutitle{
+    display: flex;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.segundatabutitle{
+    display: flex;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.terceiratabutitle{
+    display: flex;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.quartatabutitle{
+    display: flex;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cincotabutitle{
+    display: flex;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.escolhernumtitle{
+    color: #000;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+
+top: 50%;
+
+left: 35%;
+}
+.botaonum{
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 230px;
+    position: absolute;
+
+top: 65%;
+
+left: 40%;
+}
+.botaoferfic{
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+
+top: 75% ;
+
+left: 40%;
+}
+#quadradovermelho{
+width:30px;
+height:30px;
+border: 25px solid; /* As 4 bordas sólidas com 25px de espessura */
+border-color: #f00;  /* cores: topo, direita, inferior, esquerda */
+position: absolute;
+line-height: normal;
+top: 87%;
+left: 27%;
+}
+#quadradoamarelo{
+width:30px;
+height:30px;
+border: 25px solid; 
+border-color: rgb(255, 238, 0);  
+position: absolute;
+line-height: normal;
+top: 87%;
+left: 35%;
+}
+#quadradoverde{
+width:30px;
+height:30px;
+border: 25px solid; 
+border-color: rgb(0, 255, 64); 
+position: absolute;
+line-height: normal;
+top: 87%;
+left: 43%;
+}
+#quadradoazul{
+width:30px;
+height:30px;
+border: 25px solid; 
+border-color: rgb(0, 247, 255);  
+position: absolute;
+line-height: normal;
+top: 87%;
+left: 51%;
+}
+#quadradoroxo{
+width:30px;
+height:30px;
+border: 25px solid; 
+border-color: rgb(119, 0, 255); 
+position: absolute;
+line-height: normal;
+top: 87%;
+left: 59%;
+}
+
+
